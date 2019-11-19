@@ -1,0 +1,7 @@
+name: Chats (once Chatty)
+url: https://puri.sm/
+tracking_issue: "https://source.puri.sm/Librem5/chatty/issues?scope=all&utf8=%E2%9C%93&state=opened&search=omemo"     
+work_in_progress: yes   
+testing: yes        
+done: no   
+status: 50
